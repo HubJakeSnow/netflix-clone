@@ -7,6 +7,8 @@ Features:
 
 Dynamic Content: Utilizes the TMDB API to fetch real movie data, ensuring that the content is always up-to-date and relevant.
 
+Trailer Feature: Clicking on a movie image/poster searches for the trailer on YouTube then plays the trailer if it is available.
+
 Responsive Design: The application is designed to be fully responsive, providing a seamless experience across various devices and screen sizes.
 
 CSS Styling: Custom styling has been implemented using CSS to closely mimic the Netflix user interface. 
