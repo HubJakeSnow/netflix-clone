@@ -1,6 +1,3 @@
-Netflix Clone using React
-
-Overview
 This project is a Netflix clone built using React, showcasing front-end web development skills. The goal of this project is to replicate the user interface of Netflix, providing a visually appealing and responsive experience for users.
 
 Features:
